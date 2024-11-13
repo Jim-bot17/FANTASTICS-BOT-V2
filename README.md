@@ -1,14 +1,14 @@
-# SUHAIL-X (V2)
+# FANTASTICS-BOT (V2)
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://telegra.ph/file/71ce7bc2c1af81cbc7df7.jpg"></a>
 
 
   <p align="center">
-<a href="https://github.com/GlobalTechInfo/followers"><img title="Followers" src="https://img.shields.io/github/followers/GlobalTechInfo?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/GlobalTechInfo/SUHAIL-XMD?style=flat-square&color=green"></a>
-<a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/duduumendez2/followers"><img title="Followers" src="https://img.shields.io/github/followers/duduumendez2?color=blue&style=flat-square"></a>
+<a href="https://github.com/duduumendez2/SUHAIL-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/GlobalTechInfo/FANTASTICS-BOT-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/duduumendez/FANTASTICS-BOT-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/duduumendez2/FANTASTICS-BOT-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/duduumendez2/FANTASTICS-BOT-V2?style=flat-square&color=green"></a>
+<a href="https://github.com/duduumendez2/FANTASTICS-BOT-V2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -26,9 +26,9 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{SUHAIL-XMD}/count.svg" alt="GlobalTechInfo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{GlobalTechInfo}/count.svg" /></p>
 
 
-  <p align="center"> Meet Suhail-X, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet DUDUU_MENDEZ, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. FANTASTICS-BOT whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/fork"><img title="SUHAIL-XMD" src="https://img.shields.io/badge/FORK-SUHAIL XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/GlobalTechInfo/SUHAIL-XMD/fork"><img title="FANTASTICS-BOT V2" src="https://img.shields.io/badge/FORK-FANTASTICS-BOT-V2-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -40,7 +40,7 @@
 1. ***Get [`SESSION ID`](https://suhail-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be/4YEUtGlqkl4).***
-3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/GlobalTechInfo/SUHAIL-XMD/fork)***
+3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/duduumendez2/FANTASTICS-BOT-V2/fork)***
    
 4.  #### DEPLOY IN HEROKU 
 
@@ -110,8 +110,8 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/GlobalTechInfo/SUHAIL-XMD
-      cd SUHAIL-XMD
+      git clone https://github.com/duduumendez2/FANTASTICS-BOT-V2
+      cd FANTASTICS-BOT-V2
       yarn install --network-concurrency 1 && npm install
       ```
 
@@ -123,9 +123,9 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923184474176"
+      OWNER_NUMBER="255749750707"
       SESSION_ID = "SESSION_85_23_59_01_kjgfgfclhj"
-      THUMB_IMAGE = "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      THUMB_IMAGE = "https://telegra.ph/file/71ce7bc2c1af81cbc7df7.jpg"
       OWNER_NAME = "Suhail"
       PREFIX = .
       WARN_COUNT = 3
@@ -186,10 +186,10 @@ sudo yarn global add pm2
 _Before Cloning It,Make Sure Get Session ID Via Pairing Or Scanning.Add Session ID And Owner Number In config.env And config.js.This Process Can Be Done In Fork Only.After That Clone The Fork And Execute Remaining Commands._
 
 ```
-git clone https://github.com/<your_username>/SUHAIL-XMD
+git clone https://github.com/duduumendez2/FANTASTICS-BOT-V2
 ```
 ```
-cd SUHAIL-XMD
+cd FANTASTICS-BOT-V2
 ```
 ```
 yarn install --network-concurrency 1 && npm install
